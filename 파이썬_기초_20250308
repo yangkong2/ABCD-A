@@ -1,0 +1,26 @@
+#watch = 100000
+#a = 'pig'
+#b = 'dad'
+
+#print(a)
+#print(b)
+#print(watch)
+#print(a+b)
+#print(a+' '+b)
+
+#a = 10
+#b = 2000
+#a, b = b, a
+
+#a = [10, 20, 30]
+
+#a = [10, 20, 30]
+#b = a
+
+#a = [10, 20, 30]
+#b = a
+
+#a = [10, 20, 30]
+#b = a
+#a[0] = 200
+#print(b)
